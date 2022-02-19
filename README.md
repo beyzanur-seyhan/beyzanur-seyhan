@@ -8,6 +8,8 @@
 - ❓ Ask me about anything from Cascading Style Sheet technologie.
 - 🧐 How to reach me: [Linkedin](https://www.linkedin.com/in/beyzanurseyhan/)
 
+#### Know Me More: [beyzanurseyhan.com](https://www.beyzanurseyhan.com)
+
 <br>
 
 | I Learned | Work On | Framework | Tools |
@@ -16,8 +18,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzanur-seyhan)](https://github.com/beyzanur-seyhan/github-readme-stats)
-![Beyzanur Seyhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyzanur-seyhan&line_height=26)
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzanur-seyhan)](https://github.com/beyzanur-seyhan/github-readme-stats)|![Beyzanur Seyhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyzanur-seyhan)|
+| ------------- | ------------- |
 
 
-#### Know Me More: [beyzanurseyhan.com](https://www.beyzanurseyhan.com)
+

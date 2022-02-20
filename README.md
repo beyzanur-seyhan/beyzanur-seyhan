@@ -6,7 +6,7 @@
 - 🌐 I am here to of experts in Github to connect with them. (Front-end)
 - 🤔 I am looking for someone to ask while learning the Javascript language.
 - ❓ Ask me about anything from Cascading Style Sheet technologie.
-- 🧐 How to reach me: [Linkedin](https://www.linkedin.com/in/beyzanurseyhan/)
+- 🧐 How to reach me: [Linkedin](https://www.linkedin.com/in/beyzanurseyhan/) | [Gmail](mailto:info@beyzanurseyhan.com)
 
 #### Know Me More: [beyzanurseyhan.com](https://www.beyzanurseyhan.com)
 

@@ -1,5 +1,5 @@
 ## Welcome My Friend 🙋
-###  I'm Beyzanur. Also Front-End Developer (Of Future)    
+###  I'm Beyzanur. Also Front-End Developer 
 
 - 👩‍💻 I’m currently working on CSS projects and little bit Javascript projects.
 - 📝 I’m currently experting front-end technologies. (For now - CSS)

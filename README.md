@@ -1,7 +1,7 @@
 ## Welcome My Friend 🙋
 ###  I'm Beyzanur. Also Jr. Front-End Developer 
 
-- 👩‍💻 I’m currently working on SCSS projects and little bit Javascript projects.
+- 👩‍💻 I’m currently working on Javascript projects and little bit CSS projects.
 - 📝 I’m currently experting front-end technologies. (For now - Javascript)
 - 🌐 I am here to of experts in Github to connect with them. (Front-end)
 - 🤔 I am looking for someone to ask while learning the Javascript language.

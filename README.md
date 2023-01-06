@@ -15,4 +15,5 @@ I'm currently trying to improve myself on javascript and frameworks. I also cont
 
 ### Latest Blog Posts
 
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
